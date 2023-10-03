@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "dev.irving.jetbizcard"
+    namespace = "dev.irving.counter"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "dev.irving.jetbizcard"
+        applicationId = "dev.irving.counter"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
